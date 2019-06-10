@@ -8,13 +8,7 @@ title: 首页
     {% for post in site.posts %}
         <a href="{{site.baseurl}}{{post.url}}"> {{ post.title }}  </a> <br>
         {{ post.date | date: "%F" }} <br>
-		 <p class="author">
-		    <span class="date">{{ post.date }}</span>
-		  </p>
-		 <div class="content">
-		    {{ post.content }}
-		  </div>
-        {{ post.category }} <br>
+		{{ post.category }} <br>
         {{ post.excerpt }} 
     {% endfor %}
 {% endraw %}
