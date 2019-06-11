@@ -8,7 +8,7 @@ comments: true
 
 # {{ page.title }}
 
-## 目录
+## category
 + [1st parts](#partI)
 + [2nd parts](#partII)
 + [3th parts](#partIII)
