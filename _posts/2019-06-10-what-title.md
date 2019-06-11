@@ -1,14 +1,38 @@
 ---
 layout: default
-title: 使用 Markdown
-category: 工具
+title: Travel Japan
+category: Travel
 comments: true
 ---
 
-# 为什么使用 Markdown
 
-* 看上去不错  
-* 既然看上去不错，为什么不试试呢  
+# {{ page.title }}
 
+## 目录
++ [1st parts](#partI)
++ [2nd parts](#partII)
++ [3th parts](#partIII)
 
-# 如何使用 Markdown
+----------------------------------
+
+## What
+ 
+Here is the 1st parts
+
+----------------------------------
+
+## Why traveling Japan
+
+* Peaceful
+* Price is acceptable
+ 
+Here is the 2nd parts of  contents
+
+----------------------------------
+
+## How
+ 
+Here is the 3th parts of contents
+
+{{ page.date|date_to_string }}
+
