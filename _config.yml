@@ -1,5 +1,5 @@
 theme: jekyll-theme-midnight
-markdown: kramdown
+markdown: CommonMark
 safe: false
 baseurl: chengmo03013106.github.io
 pygments: true
