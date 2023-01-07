@@ -38,7 +38,7 @@ def SelectPic(url):
 def Update(url):
     f = open('README.md','r+')
     old = f.read()
-    f.seek()
+    f.seek(0)
     f.write('<img decoding="async" src="{0}" width="50%" alt="what??">'.format(url))
     f.write(old)
     f.close()
