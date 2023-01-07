@@ -32,7 +32,7 @@ def SelectPic(url):
             else:
                 continue
             pic_url = tr_list[random.randrange(len(tr_list)-1)]
-            print(pic_url.a.attrs['href'])
+            #print(pic_url.a.attrs['href'])
             return pic_url.a.attrs['href']
 
 def Update(url):
@@ -41,6 +41,7 @@ def Update(url):
     f.seek(0)
     f.write('<img decoding="async" src="{0}" width="50%" alt="what??">'.format(url))
     f.write(old)
+    f.write('\n')
     f.close()
 
 
