@@ -35,12 +35,13 @@ def SelectPic(url):
             print(pic_url.a.attrs['href'])
             return pic_url.a.attrs['href']
 
-def Update(name,url):
+def Update(url):
     f = open('README.md','r+')
     old = f.read()
     f.seek()
     f.write('<img decoding="async" src="{0}" width="50%" alt="what??">'.format(url))
     f.write(old)
+    f.close()
 
 
 def run():
