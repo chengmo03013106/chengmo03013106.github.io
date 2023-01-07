@@ -44,6 +44,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run Python 
         run: |
+          pwd
           python flow.py
       # Commit file
       - name: commit files
