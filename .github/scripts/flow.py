@@ -1,7 +1,7 @@
 #/usr/bin/python3
 
 from bs4 import BeautifulSoup
-import urllib.request, pdb, sys, random
+import urllib.request, sys, random
 
 SF2_PIC = [
     'https://www.vgmaps.com/Atlas/Genesis/ShiningForceII-World.png',

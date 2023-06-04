@@ -30,7 +30,7 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: checkout repo content
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         
       - name: setup python
         uses: actions/setup-python@v4
@@ -48,7 +48,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run Python 
         run: |
-          python flow.py
+          python ./github/scripts/flow.py
       # Commit file
       - name: commit files
         run: |
