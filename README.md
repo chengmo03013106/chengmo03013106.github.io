@@ -1,9 +1,15 @@
-<img decoding="async" src="None" width="50%" alt="what??">## Welcome to GitHub Pages
 ## This is Cheng Da Mo's private blog
+
+ <div><img src="./images/《山田孝太郎-初画集》/微信图片_20240106145853.jpg" width = "800" alt="《山田孝太郎-初画集》" align=center /></div>
+  [《山田孝太郎-初画集》](./images/《山田孝太郎-初画集》)
+
+
+|      |      |      |
+| :----: | :----: | :----: |
+| <div><img src="./images/《樱桃小丸子的全部》/微信图片_20240106151749.jpg" width = "800" alt="《樱桃小丸子的全部》" align=center /></div> [《樱桃小丸子的全部》](./images/《樱桃小丸子的全部》)  | <div><img src="./images/《司弹-宙刃弹插画集》/微信图片_20240106150855.jpg" width = "800" alt="《司弹-宙刃弹插画集》" align=center /></div> [《司弹-宙刃弹插画集》](./images/《司弹-宙刃弹插画集》) | <div><img src="./images/《口袋妖怪 黑2白2-O.S.T原声专辑》/微信图片_20240106150616.jpg" width = "800" alt="《口袋妖怪 黑2白2-O.S.T原声专辑》" align=center /></div> [《口袋妖怪 黑2白2-O.S.T原声专辑》](./images/《口袋妖怪 黑2白2-O.S.T原声专辑》) | <div><img src="./images/《恶魔城X历代记》UMD/微信图片_20240106150749.jpg" width = "800" alt="《恶魔城X历代记》UMD" align=center /></div> [《恶魔城X历代记》UMD](./《恶魔城X历代记》UMD) |  |  |
 
 You can use the [editor on GitHub](https://github.com/chengmo03013106/momomomomo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -28,15 +34,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chengmo03013106/momomomomo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
 
 
 
